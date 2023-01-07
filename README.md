@@ -1,2 +1,2 @@
 # super-project
-first project of sql servrt and tableau:)
+first project of sql server and tableau:)
